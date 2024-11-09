@@ -12,12 +12,15 @@
 
 **Duck Equation**
 <br>
+
 ```math
 num_(patos) = (2 \times \sum_{i=1}^{(base-1)/2} i) + \text{1+((base-1)/2)}
 ```
+
 <br>
 therefore
 <br>
+
 ```math
 num_(patos) = b^2/4 + b/2 + 1/4
 ```
